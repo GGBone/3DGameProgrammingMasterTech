@@ -76,6 +76,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="3DEngine_math.h" />
+    <ClInclude Include="T3DLIB1.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3DEngine_math.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
