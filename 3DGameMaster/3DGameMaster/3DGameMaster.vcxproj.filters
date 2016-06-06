@@ -18,5 +18,13 @@
     <ClInclude Include="T3DLIB1.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="3DEngine_math.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3DEngine_math.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
